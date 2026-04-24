@@ -2,7 +2,7 @@
 # Shadeify – Sunglasses Filter using OpenCV
 
 ## Project Overview
-This project demonstrates how to overlay a sunglasses image onto a human face using **OpenCV** and **NumPy**. It showcases fundamental image processing techniques like masking, blending, and region-based manipulation.
+This project demonstrates how to overlay a sunglasses image onto a human face using **OpenCV** and **NumPy**. 
 
 ---
 
@@ -62,9 +62,3 @@ This project demonstrates how to overlay a sunglasses image onto a human face us
 - Basic computer vision workflow  
 
 ---
-
-## How to Run
-
-1. Install dependencies:
-```bash
-pip install opencv-python numpy matplotlib
